@@ -68,30 +68,30 @@
 
 #workskin .tadc-dialog.tadc-pomni::before {
     /* background-image: url("https://static.wikia.nocookie.net/tadc/images/e/e1/Pomni's_room_icon.png/revision/latest/scale-to-width-down/512?type=.png"); */
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Pomni's_room_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Pomni_icon.png");
 }
 #workskin .tadc-dialog.tadc-jax::before {
     /* background-image: url("https://static.wikia.nocookie.net/tadc/images/a/ad/Jax's_room_icon.png/revision/latest/scale-to-width-down/512?type=.png"); */
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Jax's_room_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Jax_icon.png");
 }
 #workskin .tadc-dialog.tadc-ragatha::before {
     /* background-image: url("https://static.wikia.nocookie.net/tadc/images/6/62/Ragatha's_room_icon.png/revision/latest/scale-to-width-down/512?type=.png"); */
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Ragatha's_room_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Ragatha_icon.png");
 }
 #workskin .tadc-dialog.tadc-zooble::before {
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Zooble's_room_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Zooble_icon.png");
 }
 #workskin .tadc-dialog.tadc-gangle::before {
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Gangle's_room_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Gangle_icon.png");
 }
 #workskin .tadc-dialog.tadc-kinger::before {
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Kinger's_room_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Kinger_icon.png");
 }
 #workskin .tadc-dialog.tadc-caine::before {
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Caine_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Caine_icon.png");
 }
 #workskin .tadc-dialog.tadc-bubble::before {
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/Bubble_icon.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Bubble_icon.png");
 }
 /* #workskin .tadc-dialog.tadc-daisy::before {
 } */
@@ -117,6 +117,6 @@
     
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/images/censor.png");
+    background-image: url("https://raw.githubusercontent.com/Nemirel345/tadc-fanfic-daisy-bell/refs/heads/main/workskin/images/Censor.png");
     background-position: center;
 }
