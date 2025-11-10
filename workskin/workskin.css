@@ -134,6 +134,10 @@
     font-family: "Segoe Print", "Lucida Calligraphy", cursive, sans-serif;
 }
 
+#workskin [class^="tadc-dialog-"] b:first-child {
+    display: none;
+}
+
 #workskin [class^="tadc-dialog-"]::before {
     content: "";
     display: inline-block;
