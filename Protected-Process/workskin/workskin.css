@@ -72,7 +72,8 @@
     width: fit-content;
     max-width: 80%;
     line-height: 1.5em;
-    font-family: "Segoe Script", "Lucida Handwriting", cursive, serif; /*"Bradley Hand", "Segoe Print", */
+    /*font-family: "Segoe Script", "Lucida Handwriting", cursive, serif; "Bradley Hand", "Segoe Print", */
+    font-family: "Segoe Print", "Lucida Calligraphy", cursive, sans-serif;; /*"Bradley Hand", "Segoe Print", */
     font-weight: bold;
     position: relative;
     color: #EEE;
@@ -127,15 +128,17 @@
 }
 #workskin .tadc-dialog-caine {
     background-color: #1E90FF;
-    font-family: Consolas, "Lucida Console", monospace, sans-serif;
+    /* font-family: Consolas, "Lucida Console", monospace, sans-serif; */
+    font-family: Consolas, "Lucida Console", "Lucida Sans Typewriter", monospace, sans-serif;
 }
 #workskin .tadc-dialog-bubble {
     background-color: #4FD1FF;
-    font-family: Consolas, "Lucida Console", monospace, sans-serif;
+    /* font-family: Consolas, "Lucida Console", monospace, sans-serif; */
+    font-family: Consolas, "Lucida Console", "Lucida Sans Typewriter", monospace, sans-serif;
 }
 #workskin .tadc-dialog-daisy {
     background-color: #E07BFF;
-    font-family: "Segoe Print", "Lucida Calligraphy", cursive, sans-serif;
+    /* font-family: "Segoe Print", "Lucida Calligraphy", cursive, sans-serif; */
 }
 
 #workskin [class^="tadc-dialog-"] b:first-child {
