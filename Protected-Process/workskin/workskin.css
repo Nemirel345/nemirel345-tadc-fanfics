@@ -60,7 +60,7 @@
 }
 
 #workskin [class^="tadc-dialog-"] {
-    font-size: 16;
+    font-size: 1rem;
     margin: 0.75em;
     margin-left: 2em;
     padding: 0.2em;
@@ -73,7 +73,7 @@
     max-width: 80%;
     line-height: 1.5em;
     /*font-family: "Segoe Script", "Lucida Handwriting", cursive, serif; "Bradley Hand", "Segoe Print", */
-    font-family: "Segoe Print", "Lucida Calligraphy", cursive, sans-serif;; /*"Bradley Hand", "Segoe Print", */
+    font-family: "Segoe Print", "Lucida Calligraphy", sans-serif;; /*"Bradley Hand", "Segoe Print", */
     font-weight: bold;
     position: relative;
     color: #EEE;
@@ -189,18 +189,19 @@
 
 #workskin [class^="tadc-dialog-"] del {
     display: inline-block;
-    width: 6em;
+    width: 3.75em;
     color: transparent;
     position: relative;
     line-height: 1.5em;
     text-align: center;
     text-shadow: none;
+    letter-spacing: -0.7em;
 }
 #workskin [class^="tadc-dialog-"] del::before {
     content: "";
     display: inline-block;
-    width: 6em;
-    height: 4em;
+    width: 3.75em;
+    height: 2.5em;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
