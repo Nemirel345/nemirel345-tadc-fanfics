@@ -1,5 +1,5 @@
 #workskin .tadc-narration {
-    font-size: 16;
+    font-size: 1rem;
     margin: 0.75em;
     margin-left: 2em;
     padding: 0.2em;
@@ -187,7 +187,7 @@
     background-image: url("https://raw.githubusercontent.com/Nemirel345/nemirel345-tadc-fanfics/refs/heads/main/Protected-Process/workskin/images/Daisy_icon.png");
 }
 
-#workskin [class^="tadc-dialog-"] del {
+#workskin [class^="tadc-dialog-"] .censor {
     display: inline-block;
     width: 3.75em;
     color: transparent;
@@ -195,9 +195,12 @@
     line-height: 1.5em;
     text-align: center;
     text-shadow: none;
-    letter-spacing: -0.7em;
+    visibility: hidden;
+    white-space: nowrap;
+    margin: 0 -0.2em;
 }
-#workskin [class^="tadc-dialog-"] del::before {
+#workskin [class^="tadc-dialog-"] .censor::before {
+    visibility: visible;
     content: "";
     display: inline-block;
     width: 3.75em;
